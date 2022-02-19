@@ -1,1 +1,1 @@
-# nuxtevents
+# nuxtevents heroku
